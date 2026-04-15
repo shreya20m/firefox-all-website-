@@ -11,7 +11,7 @@ stages {
 
     stage('Checkout Code') {
         steps {
-            git branch:'main',url:'https://github.com/shreya20m/firefox.git'
+            git branch:'main',url:'https://github.com/shreya20m/firefox-all-website-.git'
         }
     }
 
